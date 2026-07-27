@@ -1,0 +1,6 @@
+[Info] 7/27/2026 8:28:21 AM: Compacting started
+[Info] 7/27/2026 8:28:22 AM: 0/100 - Compacting Workspace
+[Info] 7/27/2026 8:28:23 AM: Compacting Workspace - Defragmentation finished in 00:00:01.0144266, database size: 9621504
+[Info] 7/27/2026 8:28:23 AM: -2147483648/-2147483648 - Recalculating index statistics
+[Info] 7/27/2026 8:28:23 AM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0622948, database size: 9621504
+[Info] 7/27/2026 8:28:23 AM: Compacting finished
