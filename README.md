@@ -40,5 +40,11 @@ This file contains all the concepts covered in this project and provides access 
     - TBox Wait
     - Synchronization Timeout
     - Synchronization Timeout during waitOn
-      
+
+7. Timers: Timers are used to measure and track the testcase execution time
+    - Start timer
+    - Stop timer
+
+8. Cardinality: It is a module attribute property and which allows us to add multiple attributes to the test step.
+                cardinality default value : 0-1
 
