@@ -49,4 +49,12 @@ This file contains all the concepts covered in this project and provides access 
                 cardinality default value : 0-1
 
 9. Repetitions: To repeat the same steps within the same testcase is known as a repetitions.
-                Repetition property exists in Test step folder 
+                Repetition property exists in Test step folder
+
+10. Constraint Action Mode: Constraint Action Mode is used to limit the search for a particular control.
+
+11. Recovery Scenario: It is used to handle the intermittent behavior of the application
+    To use Recovery scenarios, we need 3 pre-conditios:
+         - OnDialogFilure = Recovery
+         - Retry level should be TestStep
+         - Recovery scenarios should be execute only from execution section
