@@ -4,3 +4,15 @@
 [Info] 7/27/2026 8:28:23 AM: -2147483648/-2147483648 - Recalculating index statistics
 [Info] 7/27/2026 8:28:23 AM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0622948, database size: 9621504
 [Info] 7/27/2026 8:28:23 AM: Compacting finished
+[Info] 7/27/2026 11:01:13 AM: Compacting started
+[Info] 7/27/2026 11:01:13 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 7/27/2026 11:01:14 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 7/27/2026 11:01:15 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 7/27/2026 11:01:15 AM: Compacting Workspace - Defragmentation finished in 00:00:01.0059397, database size: 11923456
+[Info] 7/27/2026 11:01:15 AM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0626009, database size: 11923456
+[Info] 7/27/2026 11:01:15 AM: Compacting finished
+[Info] 7/27/2026 11:01:16 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 7/27/2026 11:01:17 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 7/27/2026 11:01:18 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 7/27/2026 11:01:19 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 7/27/2026 11:01:20 AM: 99/100 - Defragmenting Data - [estimated time left 0 s]

@@ -6554,3 +6554,76 @@
 [4] 10:29:04 AM:  ShowStatusInfo: 'TestCase finished'
 [3] 10:29:04 AM: Task 'Create TestCase' finished
 [4] 10:29:04 AM:  ShowStatusInfo: 'Ready'
+[4] 10:33:55 AM:  ShowStatusInfo: 'Scan finished ...'
+[4] 10:33:59 AM:  ShowStatusInfo: '1 object selected'
+[4] 10:33:59 AM:  ShowStatusInfo: 'Ready'
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Ready'
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Ready'
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh chart view 'Execution''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 10:34:11 AM:  ShowStatusInfo: 'Refresh all finished'
+[4] 10:34:11 AM:  ShowStatusInfo: 'Ready'
+[4] 10:34:11 AM:  ShowStatusInfo: 'Export Subset finished'
+[3] 10:34:11 AM: Task 'Export Subset' finished
+[4] 10:34:14 AM:  ShowStatusInfo: 'Ready'
+[4] 10:34:14 AM:  ShowStatusInfo: '1 object selected'
+[4] 10:34:16 AM:  ShowStatusInfo: 'Ready'
+[4] 10:34:16 AM:  ShowStatusInfo: '1 object selected'
+[4] 10:34:17 AM:  ShowStatusInfo: 'Ready'
+[4] 11:00:58 AM:  ShowStatusInfo: 'Checkin all: Connecting to Common Repository (timeout in 5 seconds) ... '
+[4] 11:00:58 AM:  ShowStatusInfo: 'Checkin all: Connecting to Common Repository succeeded'
+[3] 11:00:58 AM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 11:00:58 AM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 11:00:58 AM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 11:00:58 AM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 11:00:58 AM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 11:00:58 AM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 11:00:59 AM: ObjectVersioning is enabled
+[3] 11:00:59 AM: ObjectVersioning: Start collecting deleted objects
+[3] 11:00:59 AM: ObjectVersioning: Finished collecting deleted objects
+[3] 11:00:59 AM: ObjectVersioning: Begin creating changeset for 346 clusters.
+[3] 11:00:59 AM: ObjectVersioning: Finished creating changeset.
+[4] 11:00:59 AM:  ShowStatusInfo: 'BeforeTeamTaskCommit'
+[4] 11:00:59 AM:  ShowStatusInfo: 'Ready'
+[4] 11:00:59 AM:  ShowStatusInfo: 'Checkin all finalizing ...'
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Ready'
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Ready'
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh chart view 'Execution''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:00:59 AM:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:00:59 AM:  ShowStatusInfo: 'Checkin all finished'
+[3] 11:00:59 AM: Task 'Checkin all' finished
+[3] 11:01:01 AM: Closing Workspace!
+[3] 11:01:01 AM: Log closed!
