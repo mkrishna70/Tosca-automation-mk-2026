@@ -58,3 +58,9 @@ This file contains all the concepts covered in this project and provides access 
          - OnDialogFilure = Recovery
          - Retry level should be TestStep
          - Recovery scenarios should be execute only from execution section
+
+12. Work states: In Testcase level, we'll see workstates
+    3 types of workstates
+    a. Planned
+    b. In_work
+    c. Completed
