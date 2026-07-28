@@ -48,3 +48,5 @@ This file contains all the concepts covered in this project and provides access 
 8. Cardinality: It is a module attribute property and which allows us to add multiple attributes to the test step.
                 cardinality default value : 0-1
 
+9. Repetitions: To repeat the same steps within the same testcase is known as a repetitions.
+                Repetition property exists in Test step folder 
